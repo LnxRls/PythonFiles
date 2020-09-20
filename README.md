@@ -1,7 +1,7 @@
 # PythonFiles
-# A repository of development work for quick retrieval purpose
+# A repository of development work
 
-> This is a workbench repository to test GitHub and save development work 
+> To learn GitHub and save development work 
 
 > A repository of development work for quick retrieval purpose
 
