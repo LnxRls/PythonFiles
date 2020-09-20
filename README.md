@@ -1,5 +1,5 @@
 # PythonFiles
-# A repository of development work
+# GitHub Site
 
 > To learn GitHub and save development work 
 
